@@ -47,8 +47,8 @@ Opening readme using cat  to see what is there inside the file
 Level 1:
 
 
-
 img width="285" alt="image14" src="https://user-images.githubusercontent.com/120416962/217062464-f91272b2-73a9-4d0d-857a-81ea43fe9397.png">
+
 
 
 
