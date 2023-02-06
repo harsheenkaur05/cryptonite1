@@ -47,7 +47,6 @@ Opening readme using cat  to see what is there inside the file
 Level 1:
 
 
-img width="285" alt="image14" src="https://user-images.githubusercontent.com/120416962/217062464-f91272b2-73a9-4d0d-857a-81ea43fe9397.png">
 
 
 
@@ -62,6 +61,8 @@ Ls -a  to view all files
 Using cat command opened “spaces in this filename ”
 We get password for level 3 
 
+
+<img width="245" alt="image15" src="https://user-images.githubusercontent.com/120416962/217062823-c7d69eed-6932-4b08-ae2b-28c932c5a27f.png">
 
 
 
