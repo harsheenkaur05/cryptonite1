@@ -33,8 +33,7 @@ Linux fundamentals -3
 Learned commands like : Nano, VIM, wget, SCP, ps, top, kill, systemct1, ps aux, fg, cron, add-apt-repository, apt, apt update and add-apt.
 
  level 0 :
-<img width="904" alt="image2" src="https://user-images.githubusercontent.com/120416962/217062262-2b21858f-82a4-4327-bf75-b1e6f07afda5.png">
-
+<img width="285" alt="image14" src="https://user-images.githubusercontent.com/120416962/217062464-f91272b2-73a9-4d0d-857a-81ea43fe9397.png">
 
 
 
